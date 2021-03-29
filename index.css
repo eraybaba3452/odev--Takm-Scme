@@ -1,0 +1,22 @@
+div {
+    width: 700px;
+    height: 600px;  
+    flex-direction: column;  
+    border: thin solid black;  
+      
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    }
+    
+    body {
+    display: flex;  
+    flex-direction: column;    
+    justify-content: center;  
+    align-items: center;  
+    }
+
+    img{
+        width: 400px;
+        height: 390;
+    }
